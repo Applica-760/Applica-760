@@ -53,8 +53,6 @@
   </table>
 </div>
 
-
-
 ### ・ML/CV
 **Python/PyTorchによる機械学習・深層学習モデル開発経験**があります。<br>
 環境構築にはAnacondaの仮想環境を使用し、画像処理やコンピュータビジョンタスクにおいてはOpenCVを活用した実装を行ってきました。
@@ -72,31 +70,42 @@ FlutterフレームワークとDart言語を用いた**クロスプラットフ�
 メインのエディタとしてVS Codeを活用しており、開発を効率的に行っています。<br>
 また、技術的な知見を正確に共有するため、MarkdownやNotionを用いたドキュメント作成能力に長けています。特に大学の研究論文においてはLaTeXを用いて執筆しており、**専門的な文書作成やレポートの整形スキル**も備えています。
 
----
 
-<!-- ### 📂 Featured Projects & Experience
 
-<details>
-<summary><b>🎓 Research: Echo State Network Models</b></summary>
-<br>
-This project involves my undergraduate research on Echo State Networks. I'm focused on [研究の目的や応用先]. I implemented several models using PyTorch to analyze their capabilities.
-<br><br>
-Repository: **[Research: Echo State Networks]**
-</details>
+## 📂 Portfolio
 
-<details>
-<summary><b>📱 App Development: ClusTime</b></summary>
-<br>
-ClusTime is a time management application for groups, developed with Flutter. As a part of the team, my main contributions were [担当した機能や役割]. This project improved my skills in mobile UI/UX and asynchronous programming.
-<br><br>
-Repository: **[ClusTime]**
-</details>
 
-<details>
-<summary><b>🏢 Internship: AI Engineer</b></summary>
-<br>
-I worked as an AI Engineer intern, where I contributed to [担当プロダクトの簡単な説明]. My tasks included [NDAに触れない範囲での業務内容、例：developing APIs for ML models and building data processing pipelines]. I gained practical experience with tools like Docker and cloud services.
-</br>
-</details>
+### 📦 Python Package on PyPI (esn-lab)
 
---- -->
+- **概要:** PythonでESNモデルの訓練、評価を行うパッケージ。  
+- **主な機能:**  
+  - CLIベースで駆動
+  - yamlで全ての設定を決め、再現性を確保する。
+  - NumPy / pandasとの互換性  
+- **開発動機:** 研究のために開発したが、学習のためにパッケージ化。
+- [リポジトリ](https://github.com/Applica-760/esn-lab) 
+- [PyPIページ](https://pypi.org/project/esn-lab/) 
+
+
+### 👥 ClusTime
+- Flutter製のSNSアプリケーション  
+- **役割:** iOS対応・UI設計・Firebase連携  
+- [GitHubリポジトリ (技術要素)](https://github.com/Applica-760/clustime)
+- [GitHub Pages (アプリ概要)](https://applica-760.github.io/clustime/)
+- [AppStore](https://apps.apple.com/jp/app/clustime/id6749456160)
+
+### 🏆　Contest
+- 過去に着手していた学生コンテストに関するプロジェクトのまとめ
+- 離島で深刻化する漂着ごみ問題に対するソリューションを開発
+- **役割:** AIモデル、クラウド、Webの構築
+- [GitHub Pages (プロジェクト概要)](https://applica-760.github.io/contest-archive/)
+
+
+## 📝 Certifications
+- **基本情報技術者試験（2021年）** : 合格
+- **応用情報技術者試験（2022年）** : 合格
+
+
+## 🧪 Academic
+- **第27回情報論的学習理論ワークショップ (IBIS2024)** : ポスター発表
+
