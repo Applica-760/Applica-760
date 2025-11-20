@@ -76,6 +76,12 @@ VS Codeでの開発、MarkdownやNotionを用いたドキュメント作成能�
 
 ## 📂 Portfolio
 
+### 🤝 株式会社LAplust様のAIモデル検証プロジェクトにおける調査・実装
+- **プロジェクトのうち、技術ブログ化したものについて掲載**
+- [SAHIを用いた微小物体検出](https://note.com/laplust/n/n10dc6fbcd657)
+- [Ultralytics YOLOにおける訓練重みロード時のキャッシュに関するTips](https://note.com/laplust/n/ncef6c01d154c)
+- [開発プロセスに関するTips](https://note.com/laplust/n/n616fe113ac0d)
+
 
 ### 📦 Python Package on PyPI (esn-lab)
 
