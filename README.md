@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aplica-760 
+# 👋 Hi, I'm Applica-760 
 
 九州大学で機械学習（ML）/コンピュータビジョン（CV）を専攻している学部4年生です。<br>
 佐世保高専出身の編入生で、複数の学生コンテストで受賞経験があります。
@@ -92,14 +92,14 @@ VS Codeでの開発、MarkdownやNotionを用いたドキュメント作成能�
 
 
 ### 👥 ClusTime
-- **Flutter製のSNSアプリケーション**
+- **Flutter製のSNSアプリケーション作成、ローンチ**
 - iOS対応・UI設計・Firebase連携を担当。
 - [GitHubリポジトリ (技術要素)](https://github.com/Applica-760/clustime)
 - [GitHub Pages (アプリ概要)](https://applica-760.github.io/clustime/)
 - [AppStore](https://apps.apple.com/jp/app/clustime/id6749456160)
 
 ### 🏆　Contest
-- **離島で深刻化する漂着ごみ問題に対するソリューションを開発**
+- **離島で深刻化する漂着ごみ問題に対するソリューションを数百万単位の予算を獲得し開発**
 - AIモデル、クラウド、Webの構築を担当。
 - [GitHub Pages (プロジェクト概要)](https://applica-760.github.io/contest-archive/)
 
