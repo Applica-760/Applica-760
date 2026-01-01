@@ -78,6 +78,8 @@ VS Codeでの開発、MarkdownやNotionを用いたドキュメント作成能�
 
 ### 🤝 株式会社LAplust様のAIモデル検証プロジェクトにおける調査・実装
 - **プロジェクトのうち、技術ブログ化したものについて掲載**
+- [Pick and Placeタスクへの世界モデルによるアプローチ - robosuite/TD-MPC2 -](https://note.com/laplust/n/n23f47ef71370)
+- [Pick and Placeタスクの困難さに関する分析と考察 - robosuite / SAC -](https://note.com/laplust/n/n35b7987e61c6)
 - [robosuiteにおけるSACを用いた強化学習](https://note.com/laplust/n/n81fb7399ab62)
 - [SAHIを用いた微小物体検出](https://note.com/laplust/n/n10dc6fbcd657)
 - [Ultralytics YOLOにおける訓練重みロード時のキャッシュに関するTips](https://note.com/laplust/n/ncef6c01d154c)
