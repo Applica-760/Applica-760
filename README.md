@@ -15,7 +15,7 @@
 
 ## 📂 Portfolio
 
-[GitHub Pages↗︎](https://applica-760.github.io/portfolio/ja)にて各種ポートフォリオをまとめたサイトを公開しています。
+[GitHub Pages↗︎](https://applica-760.github.io/portfolio/)にて各種ポートフォリオをまとめたサイトを公開しています。
 
 <br>
 
