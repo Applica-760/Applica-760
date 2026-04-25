@@ -25,34 +25,26 @@
 <div align="center">
   <table>
     <tr>
-      <td width="150px"><b>ML / CV</b></td>
+      <td width="150px"><b>AI / ML</b></td>
       <td>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=python,pytorch,anaconda,opencv" />
+          <img src="https://skillicons.dev/icons?i=python,pytorch," />
         </a>
       </td>
     </tr>
     <tr>
-      <td><b>Mobile App Dev</b></td>
+      <td><b>Frontend</b></td>
       <td>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=flutter,dart,swift,firebase" />
+          <img src="https://skillicons.dev/icons?i=ts,react,flutter,dart" />
         </a>
       </td>
     </tr>
     <tr>
-      <td><b>OS & Infra</b></td>
+      <td><b>Infra</b></td>
       <td>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=apple,ubuntu,git,docker" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td><b>Tools & Docs</b></td>
-      <td>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=vscode,md,notion,latex" />
+          <img src="https://skillicons.dev/icons?i=aws,terraform,docker,firebase" />
         </a>
       </td>
     </tr>
